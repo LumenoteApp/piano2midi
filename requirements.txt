@@ -1,0 +1,9 @@
+# install CUDA torch first (setup.bat does this)
+transkun>=2.0
+bs-roformer-infer>=0.1.5
+soundfile
+fastapi
+uvicorn
+python-multipart
+mido
+yt-dlp
